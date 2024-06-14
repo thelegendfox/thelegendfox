@@ -3,7 +3,6 @@
 — what am i learning? the odin project's thing right now. i'm in the beginning, though.<br/>
 — reach me via (currently nothing, but i'll have some links here eventually.)<br/>
 — since i've been prompted about it, just call me `they/them`. if otherwise indicated, call me that.<br/>
-— quite jaded all of the time, so if i'm not nice, then i'm sorry, it's not personal.
 
 <!---
 thelegendfox/thelegendfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
