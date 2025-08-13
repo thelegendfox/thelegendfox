@@ -5,7 +5,6 @@
 — just call me `they/them`. if otherwise indicated, call me that. anonymity is key.<br/>
 — also known as `emberone` or `Ember One`.
 
-<!---
-thelegendfox/thelegendfox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hello! I'm `thelegendfox`, aka **jadedcrown.** I'm learning to code as a web developer and Discord bot developer.<br>
+<br>
+I'm making my own website... soon-ish. I'll post a link when I'm ready.
